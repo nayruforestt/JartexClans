@@ -1,0 +1,3 @@
+name: JartexClans
+version: '${project.version}'
+main: net.sunset.jartexclans.JartexClans
